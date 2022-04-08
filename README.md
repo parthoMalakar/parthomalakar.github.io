@@ -2,8 +2,7 @@
 
 Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate about building user friendly application which makes the life lot easier and simpler . I like to explore new possibilities on my way. I am currently learning NestJs and TypeORM
 
-
-
+---
 
 ## Skills
 
@@ -20,8 +19,7 @@ Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate abou
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/200px-MySQL_logo.svg.png" alt="mysql" width="auto" height="40"/>
 </p>
 
-
-
+---
 
 ## Experience
 
@@ -30,8 +28,7 @@ Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate abou
 
 Working team to provide best industry application to clients. Im currtnly working on delevring efficint API for front end integration.
 
-
-
+---
 
 ## Education
 
@@ -40,7 +37,7 @@ Working team to provide best industry application to clients. Im currtnly workin
 
 GPA 8.03
 
-
+---
 
 ### INTERESTS
 

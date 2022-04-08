@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Porfolio
 
-You can use the [editor on GitHub](https://github.com/parthoMalakar/parthomalakar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate about building user friendly application which makes the life lot easier and simpler . I like to explore new possibilities on my way. I am currently learning NestJs and TypeORM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Skills
 
-# Header 1
-## Header 2
-### Header 3
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="auto" height="40"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nest" width="auto" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/440px-Node.js_logo.svg.png" alt="node" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/200px-MySQL_logo.svg.png" alt="mysql" width="auto" height="40"/>
+</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Experience
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **SOFTWARE ENGINEER**
+**BRAINVIRE INFOTECH INC**
 
-### Jekyll Themes
+Working team to provide best industry application to clients. Im currtnly working on delevring efficint API for front end integration.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parthoMalakar/parthomalakar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Education
+
+### **WEST BENGAL UNIVERSITY OF TECHNOLOGY**
+**BTech Information Technology (2017- 2021)**
+
+GPA 8.03
+
+
+
+### INTERESTS
+
+Apart from being a software engineer, I like creating creative content. In my free time I like to gather knowledge about new technologies. 
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i like listening songs.

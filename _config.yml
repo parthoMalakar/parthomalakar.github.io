@@ -1,11 +1,9 @@
 title: Partho Malakar # your name (or website title) here
 logo: "/myself.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- Software Engineer
  <br><br>
  <a href="mailto:iamparthomalakar@gmail.com">iamparthomalakar </a>
  <br>
- <a href="https://www.linkedin.com/in/parthomalakar/">LinkedIn Profile</a>
+ <a href="https://www.linkedin.com/in/partho-malakar/">LinkedIn Profile</a>
  <br>
  
 theme: jekyll-theme-minimal

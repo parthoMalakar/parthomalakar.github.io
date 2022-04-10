@@ -1,6 +1,6 @@
 ## Porfolio
 
-Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate about building user friendly application which makes the life lot easier and simpler . I like to explore new possibilities on my way. I am currently learning NestJs and TypeORM
+Hi, 👋 I'm a Full Stack Developer I build things for web. I’m passionate about building user friendly application which makes the life lot easier and simpler . I like to explore new possibilities on my way. I'm currently learning NestJs and TypeORM
 
 ---
 
@@ -23,17 +23,17 @@ Hi, 👋 I am a **Partho Malakar** I build things for web. I’m passionate abou
 
 ## Experience
 
-### **SOFTWARE ENGINEER**
-**BRAINVIRE INFOTECH INC**
+### SOFTWARE ENGINEER
+### BRAINVIRE INFOTECH INC
 
-Working team to provide best industry application to clients. Im currtnly working on delevring efficint API for front end integration.
+Working in the team to provide best industry application to clients. I'm currtnly working on delivering efficient API for front end integration.
 
 ---
 
 ## Education
 
-### **WEST BENGAL UNIVERSITY OF TECHNOLOGY**
-**BTech Information Technology (2017- 2021)**
+### WEST BENGAL UNIVERSITY OF TECHNOLOGY
+### B.Tech Information Technology (2017- 2021)
 
 GPA 8.03
 

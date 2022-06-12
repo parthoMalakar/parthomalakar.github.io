@@ -1,4 +1,4 @@
-## Porfolio
+## Portfolio
 
 Hi, 👋 I'm a Full Stack Developer I build things for web. I’m passionate about building user friendly application which makes the life lot easier and simpler . I like to explore new possibilities on my way. I'm currently learning NestJs and TypeORM
 
